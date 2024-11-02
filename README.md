@@ -56,7 +56,3 @@ The project includes several visualizations, such as:
 
 ## Conclusion
 This analysis provides valuable insights into customer churn, enabling businesses to implement data-driven strategies to enhance retention and satisfaction.
-
-## Author Information
-**Shaun Mia**  
-[LinkedIn Profile](https://www.linkedin.com/in/shaun-mia/)
